@@ -129,3 +129,13 @@ dist
 build
 .strapi-updater.json
 .strapi-cloud.json
+
+#########################
+##### docker
+#########################
+
+.dockerignore
+.docker-compose.yml
+docker-compose.override.yml
+docker-compose.prod.yml
+postgres_data
